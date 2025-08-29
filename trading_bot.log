@@ -1,3 +1,6 @@
 2025-08-29 12:42:00,851 INFO:Connected to Binance Futures Testnet.
 2025-08-29 12:42:41,727 ERROR:Binance error: API-key format invalid.
 2025-08-29 12:43:06,231 ERROR:Binance error: API-key format invalid.
+2025-08-29 20:29:28,258 INFO:Connected to Binance Futures Testnet.
+2025-08-29 20:29:48,327 WARNING:Tried invalid symbol: SADJGHKSJDGB
+2025-08-29 20:30:14,159 ERROR:Unexpected error: API Secret required for private endpoints
